@@ -1,6 +1,6 @@
 <img src="/public/github-img.jpg" width="200">
 
-# Dropbox Clone
+# DocStore
 
 This is a [Next.js 14](https://nextjs.org/) project.
 
