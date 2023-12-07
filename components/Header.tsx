@@ -18,7 +18,7 @@ function Header() {
         </div>
     <h1 className="font-bold text-xl text-red-400">DocStore</h1>
       </Link>
-      <div className="px-5 flex space-x-2 items-center">
+      <div className="px-5 flex space-x-4 items-center">
         {/* Theme Button */}
         <ThemeToggler />
 
