@@ -52,7 +52,7 @@ function Dropzone() {
                             className={cn(
                                 "w-full h-52 flex justify-center items-center p-5 border border-dashed rounded-lg text-center",
                                 isDragActive
-                                    ? "bg-[#035FFE] text-white animate-pulse"
+                                    ? "bg-[#cf6262] text-white animate-pulse"
                                     : "bg-slate-100/50 dark:bg-slate-800/80 text-white-400"
                             )}
                         >
